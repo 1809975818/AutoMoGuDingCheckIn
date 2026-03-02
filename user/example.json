@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "工学云手机号",
-      "password": "工学云密码"
+      "phone": "17757557458",
+      "password": "654321.000"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "30.559922",
-        "longitude": "104.093023",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "山东省 · 东营市 · 开发区 · 黄河工贸园",
+        "latitude": "118.639650",
+        "longitude": "37.430666",
+        "province": "山东省",
+        "city": "东营市",
+        "area": "开发区"
       },
       "imageCount": 0,
       "description": [
